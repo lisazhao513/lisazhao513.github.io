@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome! 
 
-======
 My name is Lisa Zhao. I am a rising sophomore at the University of California, Berkeley. 
-
-in progress
