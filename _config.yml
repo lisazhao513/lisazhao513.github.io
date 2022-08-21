@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lisa Zhao's personal website"
+title                    : "Lisa Zhao"
 title_separator          : "-"
 name                     : &name "Lisa Zhao"
 description              : &description "Sophomore at UC Berkeley"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lisa Zhao"
-  avatar           : "profile.png"
+  avatar           : "profile-picture.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   location         : "UC Berkeley"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/lisazhao513/"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
