@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-8 {% include base_path %}
+{% include base_path %}
 
 **Education**
-University of California, Berkeley — *Berkeley, CA
-* *August 2021 - Expected May 2025
+* University of California, Berkeley — *Berkeley, CA
+* _August 2021 - Expected May 2025_
 * B.A. in Statistics                                                                                                   
 * GPA: 3.58
 
@@ -22,20 +22,20 @@ University of California, Berkeley — *Berkeley, CA
 * Multivariable Calculus 
 
 **Research Experience**
-Emory University REU Computational Mathematics for Data Science — *Atlanta, GA
-* *May 2022 - July 2022
+* Emory University REU Computational Mathematics for Data Science — *Atlanta, GA
+* _May 2022 - July 2022_
 * Mentor: Prof. Samy Wu Fung
 *
 
 **Relevant Experience** 
-Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — *Menlo Park, CA
-* *August 2020
+* Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — *Menlo Park, CA
+* _August 2020_
 * Job shadowed various scientists and engineers at SLAC National Accelerator Laboratory  and Lawrence Berkeley National Laboratory 
 * Worked on hands-on projects/experiments regarding coding, circuits, laser refraction, etc. 
 * Learned and practiced tools that help develop confidence and effective communication 
 
 California High School, Physics Club President — *San Ramon, CA
-* *August 2020 - June 2021
+* _August 2020 - June 2021_
 * Conducted bi-weekly meetings sharing exciting developments in physics  and technology
 * Found interesting physics problems and explained solutions while reviewing useful theorems 
 * Fostered positive relationship between club and advising faculty 
