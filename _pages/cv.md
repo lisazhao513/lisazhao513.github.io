@@ -12,12 +12,13 @@ redirect_from:
 **Education**
 *University of California, Berkeley*
 * August 2021 - Expected May 2025
-* B.A. in Statistics and Economics | Minor in Data Science  
+* B.A. in Statistics and Economics, Minor in Data Science  
 * Relevant Coursework: Introduction to Time Series, Concepts of Computing with Data, Concepts of Probability, Concepts of Statistics, Structure and Interpretation of Computer Programs, Financial Economics, Introduction to Corporate Finance 
 
 *London School of Economics* | Berkeley Study Abroad
 * June 2023 - July 2023
 Relevant Coursework: Behavorial Economics, Management of Organizations
+
 <br/>
 
 **Research Experience**
@@ -26,6 +27,7 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 * Mentor: Prof. Samy Wu Fung
 * Analyze various algorithms of training implicit networks for top efficiency and speed⁠, focusing on inverse problems
 * Built and trained implicit neural networks for image deblurring using Jacobian-free Backpropagation with fixed memory cost and reduced computational cost, yielding competitive results with state-of-the-art models
+
 <br/>
 
 **Relevant Experience**
@@ -40,6 +42,7 @@ California High School, Physics Club President — _San Ramon, CA_
 * Conducted bi-weekly meetings sharing exciting developments in physics  and technology
 * Found interesting physics problems and explained solutions while reviewing useful theorems 
 * Fostered positive relationship between club and advising faculty 
+
 <br/>
 
 **Technical Skils**
@@ -51,6 +54,7 @@ California High School, Physics Club President — _San Ramon, CA_
 * Microsoft PowerPoint 
 * Adobe Photoshop
 * Adobe Illustrator
+
 <br/>
 
 **Languages**
