@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Education**
-
+**Education**\
 *University of California, Berkeley*
 * August 2021 - Expected May 2025
 * B.A. in Statistics and Economics, Minor in Data Science  
@@ -22,8 +21,7 @@ Relevant Coursework: Behavorial Economics, Management of Organizations
 
 <br/>
 
-**Research Experience**
-
+**Research Experience**\
 Emory University REU Computational Mathematics for Data Science — _Atlanta, GA_
 * May 2022 - July 2022
 * Mentor: Prof. Samy Wu Fung
@@ -32,8 +30,7 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 
 <br/>
 
-**Relevant Experience**
-
+**Relevant Experience**\
 Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — _Menlo Park, CA_
 * August 2020
 * Job shadowed various scientists and engineers at SLAC National Accelerator Laboratory  and Lawrence Berkeley National Laboratory 
@@ -48,8 +45,7 @@ California High School, Physics Club President — _San Ramon, CA_
 
 <br/>
 
-**Technical Skils**
-
+**Technical Skils**\
 * R, RStudio, R shiny
 * Python
 * Jupyter Notebook
@@ -61,8 +57,7 @@ California High School, Physics Club President — _San Ramon, CA_
 
 <br/>
 
-**Languages**
-
+**Languages**\
 * English (native)
 * Mandarin (fluent)
 * French (conversational)
