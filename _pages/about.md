@@ -9,4 +9,4 @@ redirect_from:
 ---
 Welcome! 
 
-My name is Lisa Zhao. I am a rising sophomore at the University of California, Berkeley. 
+My name is Lisa Zhao. I am a junior at the University of California, Berkeley. 

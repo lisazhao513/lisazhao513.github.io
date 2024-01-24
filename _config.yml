@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lisa Zhao"
 title_separator          : "-"
 name                     : &name "Lisa Zhao"
-description              : &description "Sophomore at UC Berkeley"
+description              : &description "Junior at UC Berkeley"
 url                      : https://lisazhao513.github.io # the base hostname & protocol for your site e.g. "https://lisazhao513.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lisazhao513/lisazhao513.github.io "
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lisa Zhao"
-  avatar           : "profile_picture.jpg"
+  avatar           : "profile_picture1.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   location         : "UC Berkeley"
   employer         :
