@@ -66,6 +66,6 @@ California High School, Physics Club President — _San Ramon, CA_
 <br/>
 
 **Languages**
-* English
-* Mandarin
-* French
+* English (native)
+* Mandarin (fluent)
+* French (conversational)
