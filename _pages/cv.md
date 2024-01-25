@@ -27,10 +27,18 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 * Mentor: Prof. Samy Wu Fung
 * Analyze various algorithms of training implicit networks for top efficiency and speed⁠, focusing on inverse problems
 * Built and trained implicit neural networks for image deblurring using Jacobian-free Backpropagation with fixed memory cost and reduced computational cost, yielding competitive results with state-of-the-art models
+* Only freshman selected in all the participants
 
 <br/>
 
 **Relevant Experience**  
+Gamma Phi Beta Sorority - _Berkeley, CA_  
+* August 2022 - Present  
+* Personal and Chapter Enrichment Chairwoman  
+&ensp; * January 2023 - December 2023
+&ensp; * Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
+
+
 Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — _Menlo Park, CA_
 * August 2020
 * Job shadowed various scientists and engineers at SLAC National Accelerator Laboratory  and Lawrence Berkeley National Laboratory 
