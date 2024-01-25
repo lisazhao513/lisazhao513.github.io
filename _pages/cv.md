@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Education**  
+**Education**
 *University of California, Berkeley*
 * August 2021 - Expected May 2025
 * B.A. in Statistics and Economics, Minor in Data Science  
@@ -32,20 +32,20 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 <br/>
 
 **Relevant Experience**  
-Gamma Phi Beta Sorority - _Berkeley, CA_  
+_Gamma Phi Beta Sorority - Berkeley, CA_
 * August 2022 - Present  
 * Personal and Chapter Enrichment Chairwoman  
-&ensp; * January 2023 - December 2023
-&ensp; * Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
+*   January 2023 - December 2023  
+*   Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
 
 
-Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — _Menlo Park, CA_
+_Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — Menlo Park, CA_
 * August 2020
 * Job shadowed various scientists and engineers at SLAC National Accelerator Laboratory  and Lawrence Berkeley National Laboratory 
 * Worked on hands-on projects/experiments regarding coding, circuits, laser refraction, etc. 
 * Learned and practiced tools that help develop confidence and effective communication 
 
-California High School, Physics Club President — _San Ramon, CA_
+_California High School, Physics Club President — San Ramon, CA_
 * August 2020 - June 2021
 * Conducted bi-weekly meetings sharing exciting developments in physics  and technology
 * Found interesting physics problems and explained solutions while reviewing useful theorems 
