@@ -35,8 +35,8 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 _Gamma Phi Beta Sorority - Berkeley, CA_
 * August 2022 - Present  
 * Personal and Chapter Enrichment Chairwoman  
-*   January 2023 - December 2023  
-*   Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
+&ensp; * January 2023 - December 2023  
+&ensp; * Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
 
 
 _Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — Menlo Park, CA_
