@@ -11,4 +11,4 @@ Welcome to my corner of the internet! I'm Lisa Zhao, a junior at the University 
 
 Committed to personal and professional growth, I actively seek out opportunities to hone my skills and broaden my horizons. Whether it's through internships, research projects, or networking endeavors, I am committed to continually evolving and learning. I'm always eager to collaborate and engage with like-minded individuals who share my enthusiasm for data-driven solutions in finance and beyond. Feel free to reach out!
 
-Beyond my academic and professional pursuits, I'm an avid traveler, always eager to explore new cities and immerse myself in different cultures. I also have a keen interest in fashion, art, and design, finding inspiration in the creative expressions that surround us.
+Beyond my academic and professional pursuits, I'm an avid traveler, always eager to explore new cities and immerse myself in different cultures. I also have a keen interest in fashion, photography, and design, finding inspiration in the creative expressions that surround us.
