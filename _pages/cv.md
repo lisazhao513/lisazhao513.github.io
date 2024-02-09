@@ -17,7 +17,7 @@ redirect_from:
 
 *London School of Economics* | Berkeley Study Abroad
 * June 2023 - July 2023
-Relevant Coursework: Behavorial Economics, Management of Organizations
+* Relevant Coursework: Behavorial Economics, Management of Organizations
 
 <br/>
 
@@ -37,7 +37,6 @@ _Gamma Phi Beta Sorority - Berkeley, CA_
 * Personal and Chapter Enrichment Chairwoman  
 &ensp; * January 2023 - December 2023  
 &ensp; * Organized and presented at monthly meetings focusing on individual and chapter enrichment (audience of 60+)
-
 
 _Science Accelerating Girls Engagement in STEM (SAGE) Summer Camp — Menlo Park, CA_
 * August 2020

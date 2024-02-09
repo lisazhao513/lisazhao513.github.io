@@ -13,4 +13,4 @@ In my STAT 133 (Concepts of Computing with Data) class, I developed my first R S
 **Emory REU Computational Mathematics for Data Science**
   * Fast Training of Implicit Networks with Applications in Inverse Problems  
   * *May 2022 - Present*
-  * [Code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks), [Poster](../files/REURET_Poster_Team_JFB.pdf), [Website](http://www.math.emory.edu/site/cmds-reuret/projects/2022-implicit/), [Final Report](../files/Manuscript_JFB.pdf)
+  * [Code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks), [Poster](../files/REURET_Poster_Team_JFB.pdf), [Website](http://www.math.emory.edu/site/cmds-reuret/projects/2022-implicit/), [Final Report](https://arxiv.org/abs/2402.02065)
