@@ -32,6 +32,12 @@ Emory University REU Computational Mathematics for Data Science — _Atlanta, GA
 <br/>
 
 **Relevant Experience**  
+_Finance & Internal Affairs Director | Associated Students of the University of California — Berkeley, CA_
+* September 2023 - Present
+* Office of Senator Thin Rati Oo
+* Manage the office's Finance operations by working closely with the office of the Associated Students of the University of California CFO.
+* Advise and mediate internal matters between departments.
+
 _Gamma Phi Beta Sorority - Berkeley, CA_
 * August 2022 - Present  
 * Personal and Chapter Enrichment Chairwoman  
