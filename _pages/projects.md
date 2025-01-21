@@ -5,12 +5,20 @@ permalink: /projects/
 author_profile: true
 ---
 
-**Text Analysis of the Simpsons Transcript**  
-Click [here](https://lisazhao.shinyapps.io/simpson_text_analysis/) to view the R shiny app. Feel free to play around a bit!  
+# Projects - [link to repository][https://github.com/lisazhao513/CS-STAT-Projects]
 
-In my STAT 133 (Concepts of Computing with Data) class, I developed my first R Shiny app, focusing on text analysis of The Simpsons transcripts spanning 33 seasons. The project involved challenges due to the large dataset and new enviornment. Despite these hurdles, I successfully implemented word frequency and n-gram analyses. The significance of using a Shiny app for visualization adds an interactive dimension. 
+## Spam or Ham Classification
+* Developed a text classification model using logistic regression to identify spam emails based on keyword frequency and email length features.
+* Performed feature engineering, including tokenization and length-based features, to improve classification accuracy.
+* Achieved robust performance using a train-validation-test split approach, validated with confusion matrix and accuracy metrics.
 
-**Emory REU Computational Mathematics for Data Science**
-  * Fast Training of Implicit Networks with Applications in Inverse Problems  
-  * *May 2022 - Present*
-  * [Code](https://github.com/lliu58b/Jacobian-free-Backprop-Implicit-Networks), [Poster](../files/REURET_Poster_Team_JFB.pdf), [Website](http://www.math.emory.edu/site/cmds-reuret/projects/2022-implicit/), [Final Report](https://arxiv.org/abs/2402.02065)
+## Simpsons Transcript Text Analysis
+* Developed an interactive R Shiny application (https://lisazhao513.shinyapps.io/Simpsons_Transcript_Text_Analysis/) to analyze and visualize all 33 seasons of The Simpsons TV show transcripts, incorporating features such as character-specific dialogue trends and sentiment analysis across all or specific seasons.
+* Utilized natural language processing techniques to extract insights from transcripts, including word frequency and sentiment scoring, enabling users to explore thematic changes over the series.
+* Designed an intuitive user interface with dynamic plots, filters, and search functionality, allowing users to engage with detailed character-level and season-level text data interactively.
+
+## Predicting Housing Prices in Cook County
+* Developed a linear regression model to predict housing prices based on multiple features, such as number of bedrooms, square footage, and location.
+* Applied data preprocessing techniques including handling missing values, encoding categorical variables, and feature scaling for model readiness.
+* Evaluated model performance using RMSE and cross-validation to assess generalization across different subsets of the data.
+
